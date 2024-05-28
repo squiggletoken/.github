@@ -1,3 +1,5 @@
+![Squiggle Monster](./IMG_9203.webp)
+
 # Squiggle Monster
 
 **Website:** [squiggle.monster](https://squiggle.monster)
