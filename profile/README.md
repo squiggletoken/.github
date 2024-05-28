@@ -1,4 +1,4 @@
-![Squiggle Monster](./IMG_9203.webp)
+![Squiggle Monster](https://github.com/squiggletoken/.github/raw/main/profile/IMG_9203.webp)
 
 # Squiggle Monster
 
